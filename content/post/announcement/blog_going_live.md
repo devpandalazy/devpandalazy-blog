@@ -1,7 +1,7 @@
 ---
 title: "Blog going live!"
 date: 2020-11-07T17:56:09-06:00
-draft: true
+draft: false
 
 categories:
   - "Announcement"
